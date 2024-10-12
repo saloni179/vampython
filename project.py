@@ -4,7 +4,8 @@
 #print(x)
 
 #solution
-try:
-     print(x)
-except NameError:
-      print("x is not defined")
+# try:
+#      print(x)
+# except NameError:
+#       print("x is not defined")
+
